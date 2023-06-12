@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family: 'Diphylleia', serif;
+    font-size: 14px;
+}
+
+.introducao{
+    padding-top: 1.5rem;
+}
+
+.discografia{
+    padding: 2rem;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 3rem;
+    padding: 1rem;
+}
+
+.text-muted{
+    color: #fff;
+}
+
+.float-right {
+    float: right;
+    padding-right: 0.5rem;
+}
+
+.contato{
+    padding: 1rem;
+}
+.informacao{
+    padding-top: 1.5rem;
+}
